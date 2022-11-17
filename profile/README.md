@@ -13,10 +13,10 @@ Our research is carried out through close and complete collaboration between law
 ***
 
 <!-- Social buttons -->
-<div align="center">
-	<a href="https://github.com/maastrichtlawtech"><img src="https://img.shields.io/github/followers/maastrichtlawtech?label=Github&style=social" alt="Follow us on GitHub"></a>
-	&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="right">
 	<a href="https://twitter.com/maaslawtech"><img src="https://img.shields.io/twitter/follow/maaslawtech?label=Twitter&style=social" alt="Follow us on Twitter"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/maastrichtlawtech"><img src="https://img.shields.io/github/followers/maastrichtlawtech?label=Github&style=social" alt="Follow us on GitHub"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://huggingface.co/maastrichtlawtech"><img src="https://img.shields.io/badge/HuggingFace--_.svg?label=%F0%9F%A4%97%20Hugging%20Face&style=social" alt="Check our work on Hugging Face"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
