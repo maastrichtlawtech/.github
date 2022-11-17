@@ -1,4 +1,4 @@
-### Hi from the Lab 👋
+## Hi from the Lab 👋
 
 <img src="https://user-images.githubusercontent.com/32681432/165930627-5f6d8d0b-77df-4792-b3b2-a195a5bb15d3.png" height=230 align="left">
 
