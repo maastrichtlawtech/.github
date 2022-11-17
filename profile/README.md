@@ -22,5 +22,7 @@ Our research is carried out through close and complete collaboration between law
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.researchgate.net/lab/Maastricht-Law-Tech-Lab-Gijs-van-Dijck"><img src="https://img.shields.io/badge/ResearchGate--_.svg?label=Research%20Gate&style=social&logo=researchgate" alt="Check our work on Research Gate"></a>
 	&nbsp;&nbsp;&nbsp;&nbsp;
+	<a href="https://www.maastrichtuniversity.nl/about-um/faculties/law/research/law-and-tech-lab"><img src="https://img.shields.io/badge/website--_.svg?label?label=Website&style=social&logo=qiskit" alt="Learn more"></a>
+	&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="mailto:law-techlab@maastrichtuniversity.nl"><img src="https://img.shields.io/badge/email--_.svg?label?label=Email&style=social&logo=minutemailer" alt="Email us"></a>
 </div>
